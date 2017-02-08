@@ -9,7 +9,7 @@
         "rtf",
         "odt"
     ],
-    "companyName": "[ COMPANY NAME HERE ]",
+    "companyName": "Vangst Talent",
     "defaultLocale": "en-US",
     "supportedLocales": [
         "en-US",
@@ -20,9 +20,9 @@
     "maxUploadSize": 5242880,
     "service": {
         "batchSize": 500,
-        "corpToken": "[ CORP TOKEN HERE ]",
+        "corpToken": "1JZUDG",
         "port": null,
-        "swimlane": "[ SWIMLANE HERE ]"
+        "swimlane": "5"
     },
     "integrations": {
         "linkedin": {
